@@ -6,6 +6,7 @@ public class BrowserLauncher {
 		
 		// TODO Auto-generated method stub
 System.out.println("hello ravi sir");
+System.out.println("welcome to selenium");
 	}
 	
 }
